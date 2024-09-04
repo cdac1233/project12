@@ -8,3 +8,4 @@ welcome
 welcome to dbda class
 linux and cloud computing class 
 submit to undesrtand the pull concept
+undertsand fetch task 
