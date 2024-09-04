@@ -7,3 +7,4 @@ welcome
 >>>>>>> 8c7d0f9d1f74153f52cfc6dca9e2b54f58321d1b
 welcome to dbda class
 linux and cloud computing class 
+submit to undesrtand the pull concept
